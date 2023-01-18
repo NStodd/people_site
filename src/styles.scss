@@ -89,6 +89,7 @@ img {
     grid-template-columns: repeat(auto-fit, minmax(calc($imagesize + $cardpadding), max-content));
     grid-gap: 16px;
     justify-content: center;
+    
     .card {
         border: 1px black solid;
         border-radius: 5px;
